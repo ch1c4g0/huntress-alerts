@@ -2,6 +2,10 @@
 
 <p><h1>How to respond to "Login from Unexpected VPN - Whitelabel VPN" alerts,</h1></p>
 
+<h4><p>Figure One</p></h4>
+
+![alert](https://github.com/ch1c4g0/huntress-alerts/blob/9f212de9742b3ae6a2807ee811acd93d285d8820/screenshots/figure-one.png)
+
 <p>Click on the alert inside of your ticket, this will bring you to the huntress portal.</p>
 
 ***<p><h2>We are looking for four things inside this alert to help us better understand the alert.</h2></p>***
@@ -10,6 +14,10 @@
 2. The "First Seen At" field,
 3. The "IPs (last 14 days) field,
 4. The VPN name (IF applicable)
+
+<P><H4>Figure Two</H4></P>
+
+![variable-1-4](
 
 <p>These four things will help us paint a better picture on the login and determine if further action is needed.</p>
 
